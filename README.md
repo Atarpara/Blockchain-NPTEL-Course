@@ -8,6 +8,7 @@ You can enroll course form [here](https://nptel.ac.in/courses/106/105/106105235/
 Topics: Introduction to Blockchain Technology and its Importance
 
 Lecture 1: [The Model of Decentralization](https://youtu.be/uxR86EPtr78)
+
 Lecture 2: [What is Blockchain ?](https://youtu.be/B6KHbViproI)
 
 
