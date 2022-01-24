@@ -13,3 +13,5 @@ Lecture 2: [What is Blockchain ?](https://youtu.be/B6KHbViproI)
 
 Lecture 3: [Basic Cryptographic Primitives - I](https://youtu.be/uTsAiyZ_cZ4)
 
+Lecture 4: [Basic Cryptographic Primitives - II](https://youtu.be/46KE0Z8Dvj4)
+
