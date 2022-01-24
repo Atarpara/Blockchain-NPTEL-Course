@@ -11,4 +11,5 @@ Lecture 1: [The Model of Decentralization](https://youtu.be/uxR86EPtr78)
 
 Lecture 2: [What is Blockchain ?](https://youtu.be/B6KHbViproI)
 
+Lecture 3: [Basic Cryptographic Primitives - I](https://youtu.be/uTsAiyZ_cZ4)
 
